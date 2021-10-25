@@ -1,0 +1,73 @@
+ul#filterOptions li a,
+.askus_content_bar .askus_answer span,
+.column .time-wrap ul,
+.project_grid figure figcaption,
+.askus_question,
+.contact-right input[type="text"],
+.contact-right textarea,
+.contact .submit input[type="submit"],
+.coming-soon-social-wrapper a,
+.coming-soon-contact input[type="text"],
+.coming-soon-contact textarea,
+.project-counter span,
+ul.follow-social li a,
+.button,
+.submit-button .button-icon,
+#team-carousel .col-md-4:hover .team-details h1,
+#team-carousel .col-md-4:hover ul.contact-social li a,
+.blog-slider-content .category-full,
+.project_grid figure > a h3,
+.project-slide-social a .fa:hover,
+.blog-slider-content .category-full,
+.project-summary h3,
+.main-menu ul li.active,
+.main-menu ul li:hover{
+    color: #16a2dc;
+}
+::-webkit-input-placeholder {
+    color: #16a2dc;
+}
+:-moz-placeholder {
+    color: #16a2dc;
+}
+::-moz-placeholder {
+    color: #16a2dc;
+}
+:-ms-input-placeholder {
+    color: #16a2dc;
+}
+#filterOptions .hi-icon.active,
+.contact .submit span:before,
+.coming-soon-social:hover > a,
+.coming-soon-social:hover,
+.coming-soon-container,
+.skills-section .expand,
+#fade-quote-carousel.carousel .carousel-indicators > li,
+#scrollUp,
+.askus-close-button,
+a.askus-prev-button,
+a.askus-next-button,
+#askus-answers .askus-question-icon,
+.project-slide-next,
+.project-slide-details,
+.project-slide-prev,
+.project_desc .project-bar.color-1 {
+    background: #16a2dc;
+}
+.contact-right input[type="text"],
+.contact-right textarea,
+.contact .submit input[type="submit"],
+.button,
+#team-carousel .col-md-4:hover ul.contact-social li a,.bt-menu ul:first-of-type li::before{
+    border-color: #16a2dc;
+}
+#filterOptions .hi-icon {
+    box-shadow: 0 0 0 4px #16a2dc;
+}
+#column-one .accolades-circle-animation,
+#column-two .accolades-circle-animation,
+#column-three .accolades-circle-animation,
+#column-four .accolades-circle-animation,
+#column-five .accolades-circle-animation {
+    background: rgba(7, 194, 239, 0.45);
+}
