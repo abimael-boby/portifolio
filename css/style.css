@@ -1,6 +1,6 @@
 /* ------------------------------------------------------------------------ 
-Theme Name: Being
-Version:    1.0
+Theme Name: Portifolio
+Version:    1.0.1
  ------------------------------------------------------------------------ */
 /* Table of Content
 ==================================================
@@ -908,7 +908,7 @@ Skills
     transition: height 1s ease-in;
 }
 .skills-section.animated .skill-2 {
-    height: 70%;
+    height: 80%;
     transition: height 1s ease-in;
 }
 .skills-section.animated .skill-3 {

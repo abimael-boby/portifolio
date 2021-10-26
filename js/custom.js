@@ -1,6 +1,6 @@
 /*---------------------------------------------------- 
-Theme Name: Being
-Version:    1.0
+Theme Name: Portifolio
+Version:    1.0.1
  
 | ----------------------------------------------------------------------------------
 | TABLE OF CONTENT
@@ -46,7 +46,7 @@ $(function() {
         $('#home-fullpage').fullpage({
             anchors: ['home-section', 'accolades-section', 'skills-section', 'project-section', 'client-section', 'gallery-section', 'askus-section', 'contact-section', 'follow-section'],
             menu: '#menu',
-            navigationTooltips: ['Home', 'Accolades', 'Skills', 'Projects', 'Clients', 'Gallery', 'Askus', 'Contact', 'Follow'],
+            navigationTooltips: ['Home', 'Conhecimentos', 'Skills', 'Projetos', 'Clientes', 'Galeria', 'Perguntas', 'Contatos', 'REdes Sociais'],
             showActiveTooltip: false,
             scrollingSpeed: scrollingSpeed,
             'navigation': true,

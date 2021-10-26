@@ -1,0 +1,1 @@
+{"success": false, "errors": [{ "field": "name", "error": "empty_name"},{ "field": "email", "error": "empty_email"},{ "field": "message", "error": "empty_message"}]}
